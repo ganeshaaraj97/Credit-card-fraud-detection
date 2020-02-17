@@ -1,5 +1,6 @@
 # DATASTORM-KOALACODERS
 IMPORTANT NOTES
+
 **DAY 1**
 
 We mainly focused on basic feature enginerring and extensive model selection and training process
