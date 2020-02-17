@@ -37,8 +37,12 @@ After getting moderate success during day 1, our focus turned towards extensive 
 
 3.Feature extraction using PCA.
 
-4.Tranformation pieline to standard scale numerical data and to onehot encode cateogarical data
+4.Feature extraction using PCA and LDA
+
+5.Tranformation pieline to standard scale numerical data and to onehot encode cateogarical data
 
 Then we trained each and every outcome with Multiple random forests with feature splitting and XGBoost.
 
 **BEST MODEL OF DAY 3- Feature selection using linear models and XGBoost**
+
+**AT THE END OF 3 DAYS OUR BEST MODEL IS Feature selection using linear models and XGBoost**
